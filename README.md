@@ -1,22 +1,9 @@
 # next-ui-vue
-## element-ui组件库的二次开发
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+## install:
+```bash
+npm install smalleast/next-ui-vue --save
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
+
